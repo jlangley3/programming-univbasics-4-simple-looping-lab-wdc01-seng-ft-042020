@@ -15,14 +15,14 @@ def loop_message_n_times(message, number)
     end
  end
  
- def output_array(array)
+ def output_array(1array)
    puts array
 end
-array = ["John", "Pam", "Sam", "Tim"]
+1array = ["John", "Pam", "Sam", "Tim"]
    
-def return_string_array(array)
+def return_string_array(2array)
   counter = 0
-while counter < 5 do
-  array[counter]
+while array[counter] < 5 do
+  puts array[counter].to_s
 end
-   
+   2array = [1, 2 , 4, 5]
