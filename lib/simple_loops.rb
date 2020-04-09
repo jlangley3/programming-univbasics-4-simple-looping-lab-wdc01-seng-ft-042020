@@ -14,7 +14,6 @@ def loop_message_n_times(message, number)
  number.do
       puts "#{message}"
     end
- end
  
  def output_array(array)
    puts array
