@@ -11,7 +11,7 @@ def loop_message_n_times(message, number)
   counter = number
   message = "Hello Moon.\n"
   number = 5
- number.do
+ number.time.do
       puts "#{message}"
     end
  
