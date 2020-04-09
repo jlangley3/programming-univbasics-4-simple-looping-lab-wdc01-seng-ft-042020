@@ -16,7 +16,7 @@ loop #{n}.times do
  end
  
  def output_array(array)
-   array = ["John", "Pam", "Sam", "Tim"]
+   
    puts array
 end
 
