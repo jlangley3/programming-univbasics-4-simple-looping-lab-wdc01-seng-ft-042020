@@ -9,8 +9,8 @@ message =  "Hello World.\n"
  
 def loop_message_n_times(message, number)
   counter = number
-  message = "Hello Moon.\n"
-  number = 5
+  message = "Hello Red Balloon.\n"
+  number = 10
  number.times  do
       puts "#{message}"
     end
