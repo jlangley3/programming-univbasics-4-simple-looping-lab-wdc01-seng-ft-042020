@@ -1,22 +1,24 @@
 def loop_message_five_times(message)  
 counter = 0
 while counter < 5 do
-message =  "Hello World.\n"
   puts message
  counter += 1
   end
  end
  
 def loop_message_n_times(message, number)
-  message = "Hello Red Balloon.\n"
-  number = 10
- number.times  do
-      puts "#{message}"
+  count = 0
+  while count < number do
+  puts message 
+  count += 1
     end
  end
  
- def output_array(1array)
-   puts array
+def output_array(array)
+   count = 0
+while count < array.length do
+  puts array[count]
+  count += 1
 end
 1array = ["John", "Pam", "Sam", "Tim"]
    
