@@ -8,10 +8,7 @@ string =  "This is my message 5 times"
  end
  
 def loop_message_n_times(n, string)
-
   puts "This is my message n times"
- 
-  end
  end
  
  def output_array(array)
