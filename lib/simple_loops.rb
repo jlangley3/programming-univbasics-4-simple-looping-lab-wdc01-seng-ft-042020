@@ -16,10 +16,9 @@ loop #{n}.times do
  end
  
  def output_array(array)
-   
    puts array
 end
-
+array = ["John", "Pam", "Sam", "Tim"]
    
-   
+def 
    
