@@ -8,8 +8,8 @@ while counter < 5 do
   end
  end
  
-def loop_message_n_times(n, string)    # Write your methods here
-loop #{n}.times do
+def loop_message_n_times(n, string)
+
   puts "This is my message n times"
  
   end
@@ -20,5 +20,6 @@ loop #{n}.times do
 end
 array = ["John", "Pam", "Sam", "Tim"]
    
-def 
+def return_string_array(array)
+  
    
