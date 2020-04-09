@@ -1,7 +1,7 @@
 def loop_message_five_times(message)  
 counter = 0
 while counter < 5 do
-message =  "Hello World.\nThis is my message 5 times"
+message =  "Hello World.\n"
   puts message
  counter += 1
   end
