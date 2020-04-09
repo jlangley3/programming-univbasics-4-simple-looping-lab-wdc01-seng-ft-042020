@@ -5,5 +5,3 @@ while counter < 5 do
  end
  counter += 1
 end
-
-loop_message_five_times
