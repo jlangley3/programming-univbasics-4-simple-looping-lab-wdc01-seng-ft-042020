@@ -1,6 +1,6 @@
 def loop_message_five_times(string)  
+    puts "Hello World.\n"
 counter = 0
-puts "Hello World.\n
 while counter < 5 do
 string =  "This is my message 5 times"
   puts string
