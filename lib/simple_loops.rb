@@ -1,16 +1,25 @@
 def loop_message_five_times(string)  
 counter = 0
-string = 
+string =  "This is my message 5 times"
 while counter < 5 do
   break if counter = 5
-  puts "This is my message 5 times"
+  puts string
  counter += 1
   end
  end
  
-def loop_message_n_times(n)    # Write your methods here
+def loop_message_n_times(n, string)    # Write your methods here
 loop #{n}.times do
   puts "This is my message n times"
  
   end
  end
+ 
+ def output_array(array)
+   array = ["John", "Pam", "Sam", "Tim"]
+   puts array
+end
+
+   
+   
+   
