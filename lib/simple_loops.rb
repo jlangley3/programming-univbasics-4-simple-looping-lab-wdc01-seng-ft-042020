@@ -11,9 +11,10 @@ def loop_message_n_times(message, number)
   counter = number
   message = "Hello Moon.\n"
   number = 5
- number.Times.do
+ number.times  do
       puts "#{message}"
     end
+ end
  
  def output_array(array)
    puts array
