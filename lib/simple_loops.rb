@@ -20,5 +20,5 @@ end
 array = ["John", "Pam", "Sam", "Tim"]
    
 def return_string_array(array)
-  
+end
    
