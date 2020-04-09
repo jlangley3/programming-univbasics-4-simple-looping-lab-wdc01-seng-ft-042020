@@ -20,12 +20,12 @@ while count < array.length do
   puts array[count]
   count += 1
 end
-1array = ["John", "Pam", "Sam", "Tim"]
+end
    
-def return_string_array(2array)
+def return_string_array(array)
   counter = 0
 while array[counter] < 5 do
   puts array[counter].to_s
 end
 end
-   2array = [1, 2 , 4, 5]
+   
