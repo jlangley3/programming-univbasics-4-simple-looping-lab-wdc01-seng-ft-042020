@@ -1,5 +1,6 @@
-def loop_message_five_times    # Write your methods here
+def loop_message_five_times(string)  
 counter = 0
+string = 
 while counter < 5 do
   break if counter = 5
   puts "This is my message 5 times"
