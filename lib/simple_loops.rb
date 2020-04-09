@@ -25,4 +25,5 @@ def return_string_array(2array)
 while array[counter] < 5 do
   puts array[counter].to_s
 end
+end
    2array = [1, 2 , 4, 5]
