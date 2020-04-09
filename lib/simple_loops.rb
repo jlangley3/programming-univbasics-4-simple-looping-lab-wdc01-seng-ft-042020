@@ -7,8 +7,13 @@ message =  "Hello World.\nThis is my message 5 times"
   end
  end
  
-def loop_message_n_times(n, string)
-  puts "This is my message n times"
+def loop_message_n_times(message, number)
+  counter = number
+  message = "Hello Moon.\n"
+  number = 5
+ number.do
+      puts "#{message}"
+    end
  end
  
  def output_array(array)
