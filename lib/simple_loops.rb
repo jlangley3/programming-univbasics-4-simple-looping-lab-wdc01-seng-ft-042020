@@ -21,5 +21,8 @@ end
 array = ["John", "Pam", "Sam", "Tim"]
    
 def return_string_array(array)
+  counter = 0
+while counter < 5 do
+  array[counter]
 end
    
